@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap");
+
+body{
+   font-size: 100%;
+   font-family: 'Noto Kufi Arabic', sans-serif;
+   width: 100%;
+   background-color: #4bb451; }
+ 
+ form{
+   background: #ffffff;
+   margin: 100px auto;
+   padding: 15px 40px 40px 40px;
+   width: 70%;
+   border-radius: 7px;
+
+ }
+ 
+ .tab p{
+   font-size: 20px;
+   margin: 17px 0 10px 0;
+   text-align: center;
+ }
+ 
+ input{
+   margin: 10px 0;
+   padding: 10px;
+   box-sizing: border-box;
+   width: 100%;
+   font-size: 17px;
+   border: 1px solid #aaaaaa;
+ }
+ 
+ .index-btn-wrapper{
+   display: flex;
+ }
+ 
+ .index-btn{
+   margin: 20px 15px 0 0;
+   background: #04AA6D;
+   color: #ffffff;
+   border: none;
+   padding: 10px 20px;
+   font-size: 17px;
+   cursor: pointer;
+   transition: 0.3s;
+ }
+ 
+ .index-btn:hover{
+   opacity: 0.8;
+ }
+ 
+ .step{
+   height: 30px;
+   width: 30px;
+   line-height: 30px;
+   margin: 0 2px;
+   color: white;
+   background: green;
+   border-radius: 50%;
+   display: inline-block;
+   opacity: 0.25;
+ }
+ 
+
+
+
+
+
+.mosft{
+   width: 100%;
+   font-size: 18px;
+   margin:  20px  0;
+   text-align: center;
+   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+   font-family: 'Noto Kufi Arabic', sans-serif;
+   padding: 10px 0;
+   background: #4caf50;
+   color: #eaeaea;
+}
+
+
+
+ 
+ .select {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  font-size: 1.5rem;
+  padding: .5em 1rem;
+   background: #13af1b;
+  color: white;
+  border-radius: 7px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+
+
+ }
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,301 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap");
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.titl {
+  text-align: center;
+}
+h1 {
+  color: #1e7c0b;
+}
+
+.esamjobah10 {
+  position: -ms-page;
+  display: flex;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  z-index: 1000;
+  padding: 93px 0 0 915px;
+}
+.esamjobah1 {
+  color: #48484b;
+  font-size: 16px;
+  margin-top: -836px;
+  margin-left: 500px;
+  font-weight: bold;
+}
+
+.esamjobah2 {
+  font-size: 16px;
+  margin-left: 343px;
+  margin-top: -22px;
+}
+
+.esamjobah3 {
+  color: #48484b;
+  font-size: 16px;
+  margin-left: 189px;
+  margin-top: -26px;
+  font-weight: bold;
+}
+
+.esamjobah4 {
+  margin-top: -20px;
+  margin-left: 15px;
+}
+
+.esamjobah5 {
+  margin-top: 7px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 100px;
+}
+.esamjobah6 {
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 100px;
+}
+.esamjobah7 {
+  margin-top: 7px;
+
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 100px;
+}
+.esamjobah8 {
+  margin-top: 7px;
+
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 120px;
+}
+.esamjobah9 {
+  margin-top: 9px;
+
+  font-weight: bold;
+  margin-right: 120px;
+}
+.esamjobah11 {
+  width: 50px;
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: -17px;
+  margin-right: 250px;
+
+  color: #48484b;
+}
+
+.esamjobah111{
+  margin-top: -148PX;
+  padding-left: 280PX;
+}
+.esamjobah12{
+  margin-top: 12PX;
+  padding-left: 290PX;
+}
+.esamjobah13{
+  margin-top: 12PX;
+  padding-left: 290PX;
+}
+.esamjobah14{
+  margin-top: 15PX;
+  padding-left: 295PX;
+}
+.esamjobah15{
+  margin-top: 12PX;
+  padding-left: 295PX;
+}
+
+.esamjobah16{
+  margin-top: -153PX;
+  margin-right: 550PX;
+}
+.esamjobah17{
+  margin-top: -6;
+  margin-right: 550PX;
+}
+.esamjobah18{
+  margin-top: -2PX;
+  margin-right: 550PX;
+}
+.esamjobah20{
+  margin-top: 15PX;
+  margin-right: 590PX;
+}
+.esamjobah21{
+  margin-top: 39PX;
+  margin-right: 490PX;
+}
+
+.esamjobah22{
+  margin-top: -5PX;
+  margin-right: 550PX;}
+
+.esamjobah23{
+  margin-top: 25PX;
+  margin-right: 580PX;}
+
+.esamjobah24{
+  margin-right: 600PX;}
+
+.esamjobah25{
+  margin-top: -88PX;
+  margin-right: 195PX;}
+
+.esamjobah26{
+  margin-top: -26PX;
+  margin-right: 305PX;}
+
+.esamjobah27{
+  margin-top: -26PX;
+  margin-right: 410PX;}
+
+.esamjobah28{
+  margin-top: 5PX;
+  margin-right: 120PX;}
+
+.esamjobah29{
+  margin-top: 5PX;
+  margin-right: 120PX;}
+
+  .esamjobah30{
+    font-size: 10PX;
+    margin-top: -15PX;
+    margin-left: 209PX;}
+
+  .esamjobah31{
+    font-size:13PX ;
+    margin-top: 31px;
+    margin-right: 88PX;}
+    
+  .esamjobah32{
+    margin-top: -22px;
+    margin-right: 280PX;}
+
+  .esamjobah33{
+    margin-top: -25px;
+    margin-right: 395PX;}
+
+  .esamjobah34{
+    margin-left: 7PX;
+    font-size: 10PX;
+    margin-top: -18px;
+  }
+
+  .esamjobah35{
+    font-size:13PX ;
+    margin-top: 3px;
+    margin-right: 88PX;}
+
+    .esamjobah36{
+      margin-top: -25px;
+      margin-right: 280PX;}
+
+      .esamjobah37{
+        margin-top: -25px;
+        margin-right: 399PX;}
+
+        .esamjobah38{
+          margin-left: 7PX;
+          font-size: 10PX;
+          margin-top: -18px;}
+
+.img {
+  position: relative;
+  display: flex;
+  background-image: url(/1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  top: -5px;
+  z-index: -55;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap");
+
+body {
+  font-size: 100%;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  width: 100%;
+  background-color: #4bb451;
+}
+
+form {
+  background: #ffffff;
+  margin: 100px auto;
+  padding: 15px 40px 40px 40px;
+  width: 70%;
+  border-radius: 7px;
+}
+
+.tab p {
+  font-size: 20px;
+  margin: 17px 0 10px 0;
+  text-align: center;
+}
+
+input {
+  margin: 10px 0;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 17px;
+  border: 1px solid #aaaaaa;
+}
+
+.index-btn-wrapper {
+  display: flex;
+}
+
+.index-btn {
+  margin: 20px 15px 0 0;
+  background: #04aa6d;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.index-btn:hover {
+  opacity: 0.8;
+}
+
+.step {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  margin: 0 2px;
+  color: white;
+  background: green;
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.25;
+}
+
+.mosft {
+  width: 100%;
+  font-size: 18px;
+  margin: 20px 0;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  font-family: "Noto Kufi Arabic", sans-serif;
+  padding: 10px 0;
+  background: #4caf50;
+  color: #eaeaea;
+}
+
+.select {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  font-size: 1.5rem;
+  padding: 0.5em 1rem;
+  background: #13af1b;
+  color: white;
+  border-radius: 7px;
+  width: 100%;
+  text-align: center;
+  font-family: "Noto Kufi Arabic", sans-serif;
+}
